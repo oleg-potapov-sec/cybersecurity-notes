@@ -61,4 +61,43 @@ Example: [Visit TryHackMe](https://tryhackme.com)
 
 Use three backticks above and below your code (no indentation):
 
+---
+
+## 📑 Horizontal Line
+
+---
+
+Just three dashes like above create a horizontal line.
+
+---
+
+## ✅ Task Lists
+
+- [x] Finished task  
+- [ ] Unfinished task  
+- [ ] More tasks
+
+---
+
+## 📚 Tables
+
+| Tool        | Purpose          |
+|-------------|------------------|
+| Nmap        | Network scanning |
+| Burp Suite  | Web testing      |
+| Wireshark   | Packet analysis  |
+
+---
+
+## 📎 Extra Tips
+
+- `.md` files are for Markdown
+- You can preview formatting in GitHub using the **Preview** tab
+- Works great for notes, wikis, CTF writeups, and documentation
+
+---
+
+_Cheat sheet added: Oct 17, 2025_
+
+
 
