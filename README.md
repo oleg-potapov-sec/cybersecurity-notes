@@ -5,15 +5,6 @@ This is where I take notes, track my learning progress, write CTF walkthroughs, 
 
 ---
 
-## 📁 Folder Structure (Planned)
-
-- `network-security/` — Notes on TCP/IP, firewalls, Nmap, Wireshark, etc.
-- `web-security/` — XSS, SQLi, Burp Suite, SSRF, etc.
-- `ctf-writeups/` — Writeups from TryHackMe, HackTheBox, and other platforms
-- `scripts/` — Custom scripts for scanning, enumeration, etc.
-- `resources/` — Bookmarks and useful websites/tools
-
----
 
 ## 🧠 My Goals
 
