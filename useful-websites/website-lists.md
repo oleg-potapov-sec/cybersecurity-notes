@@ -41,7 +41,7 @@ ___
 
 ---
 
-[Visit Explot Database](https://www.exploit-db.com)
+[Visit Exploit Database](https://www.exploit-db.com)
 >The Exploit Database lists exploit codes from various authors; some of these exploit codes are tested and marked as verified.
 
 
